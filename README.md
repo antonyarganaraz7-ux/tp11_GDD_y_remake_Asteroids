@@ -17,7 +17,7 @@ el objetivo es sobrevivir el mayor tiempo posible, destruyendo enemigos para sum
 -VOLVER A JUGAR: R
 -SALIR: Esc
 
-##Como correr el proyecto
+## Como correr el proyecto
 requisitos:
 -Pyton 3.8 o superior
 -Pygame
