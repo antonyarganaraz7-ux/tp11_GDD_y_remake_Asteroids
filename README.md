@@ -18,11 +18,13 @@ el objetivo es sobrevivir el mayor tiempo posible, destruyendo enemigos para sum
 -SALIR: Esc
 
 ## Como correr el proyecto
-requisitos:
+ ### requisitos:
 -Pyton 3.8 o superior
 -Pygame
 
 ---
+
+## Ficha de transparencia
 
 
 
