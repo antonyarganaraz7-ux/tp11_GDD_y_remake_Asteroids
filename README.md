@@ -25,6 +25,9 @@ el objetivo es sobrevivir el mayor tiempo posible, destruyendo enemigos para sum
 ---
 
 ## Ficha de transparencia
+Use claude, me ayudo bastante en el tema para entender como hacer algunas cosas y me ayudo principalmente con dos cosas: con el reskin, y para hacer las mecanicas del boss porque se me dificulto mucho. El prompt que le mande fue el siguiente: 
+### "Oye claude, necesito ayuda para un trabajo del colegio. Me gustaria que me ayudes a hacer el reskin y que me ayudes con el boss porque no estaria pudiendo hacer algunas mecanicas.
+Tambien me gustaria que me "expliques algunas cosas que no entiendo" (es una forma de resumir varios otros mensajes que puse los cuales le pedia que me explique cosas que no sabia y que en youtube, reddit o google no llegaba a encontrar informacion que pueda llegar a entender)
 
 
 
