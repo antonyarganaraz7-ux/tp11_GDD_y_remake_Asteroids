@@ -1,0 +1,6 @@
+GDD ASTEROIDS
+algunas ideas que se me ocurrieron principalmente fue de introducir unos bonificadores de disparo(doble y triple), un escudo que proteja al jugador de impactos y un jefe el cual dificulte la jugabilidad a la persona, este aparecerá cada 5000 puntos y daría 1500 puntos de recompensa, también aparecerá una barra de vida, y disparara en abanico.
+los bonificadores tendrán un tiempo de vida para que no sean eternos.
+
+Aparte de esto también cambiare algunos colores del juego base para reemplazarlos por los colores del colegio (bordo, amarillo, rojo y blanco
+Y adjuntare el escudo del colegio dentro del juego en la parte inferior derecha
